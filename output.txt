@@ -1,0 +1,57 @@
+2024-12-29 01:44:56,057 - Special key pressed: Key.enter
+2024-12-29 01:45:01,626 - Key pressed: o
+2024-12-29 01:45:01,908 - Key pressed: u
+2024-12-29 01:45:05,224 - Special key pressed: Key.up
+2024-12-29 01:45:05,822 - Special key pressed: Key.enter
+2024-12-29 01:45:13,458 - Special key pressed: Key.enter
+2024-12-29 01:45:13,929 - Key pressed: i
+2024-12-29 01:45:14,073 - Special key pressed: Key.space
+2024-12-29 01:45:14,229 - Key pressed: k
+2024-12-29 01:45:14,475 - Key pressed: n
+2024-12-29 01:45:14,663 - Key pressed: o
+2024-12-29 01:45:14,813 - Key pressed: w
+2024-12-29 01:45:14,966 - Special key pressed: Key.space
+2024-12-29 01:45:16,206 - Key pressed: r
+2024-12-29 01:45:16,444 - Key pressed: i
+2024-12-29 01:45:16,709 - Key pressed: g
+2024-12-29 01:45:16,890 - Key pressed: h
+2024-12-29 01:45:16,972 - Key pressed: t
+2024-12-29 01:45:17,075 - Special key pressed: Key.space
+2024-12-29 01:45:17,246 - Key pressed: i
+2024-12-29 01:45:17,376 - Special key pressed: Key.space
+2024-12-29 01:45:17,909 - Key pressed: a
+2024-12-29 01:45:18,108 - Key pressed: m
+2024-12-29 01:45:18,332 - Special key pressed: Key.space
+2024-12-29 01:45:18,675 - Key pressed: w
+2024-12-29 01:45:18,770 - Key pressed: o
+2024-12-29 01:45:18,970 - Key pressed: r
+2024-12-29 01:45:19,076 - Key pressed: k
+2024-12-29 01:45:19,256 - Key pressed: i
+2024-12-29 01:45:19,430 - Key pressed: n
+2024-12-29 01:45:19,528 - Key pressed: g
+2024-12-29 01:45:19,556 - Special key pressed: Key.space
+2024-12-29 01:45:19,949 - Key pressed: f
+2024-12-29 01:45:20,072 - Key pressed: o
+2024-12-29 01:45:20,219 - Key pressed: r
+2024-12-29 01:45:20,368 - Special key pressed: Key.space
+2024-12-29 01:45:20,702 - Key pressed: e
+2024-12-29 01:45:21,149 - Key pressed: x
+2024-12-29 01:45:21,289 - Key pressed: a
+2024-12-29 01:45:21,539 - Key pressed: c
+2024-12-29 01:45:21,782 - Key pressed: t
+2024-12-29 01:45:22,002 - Key pressed: l
+2024-12-29 01:45:22,181 - Key pressed: y
+2024-12-29 01:45:22,483 - Special key pressed: Key.space
+2024-12-29 01:45:22,722 - Key pressed: t
+2024-12-29 01:45:22,841 - Key pressed: h
+2024-12-29 01:45:22,961 - Key pressed: a
+2024-12-29 01:45:23,091 - Key pressed: t
+2024-12-29 01:45:23,416 - Special key pressed: Key.shift_r
+2024-12-29 01:45:23,555 - Special key pressed: Key.home
+2024-12-29 01:45:23,724 - Special key pressed: Key.backspace
+2024-12-29 01:45:24,030 - Special key pressed: Key.ctrl_l
+2024-12-29 01:45:24,474 - Key pressed: 
+2024-12-29 01:45:25,591 - Special key pressed: Key.ctrl_l
+2024-12-29 01:45:26,062 - Key pressed: 
+2024-12-29 01:45:26,430 - Key pressed: 
+2024-12-29 01:45:26,745 - Key pressed: 
